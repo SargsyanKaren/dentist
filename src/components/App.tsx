@@ -1,8 +1,11 @@
 import * as React from 'react';
+import './App.css';
 
 const App = () => (
-  <div>
-    <h1> My React page</h1>
+  <div className='container'>
+    <div>
+      <h1 className='title'> coming coon</h1>
+    </div>
   </div>
 );   
 

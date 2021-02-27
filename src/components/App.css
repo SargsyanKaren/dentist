@@ -1,0 +1,15 @@
+body{
+    background-color: #FF8C00;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    font-size: 70px;
+    color: white;
+    text-transform: uppercase;
+}
